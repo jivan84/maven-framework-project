@@ -200,6 +200,8 @@ git submodule update
 
 *[http://blog.zenika.com/category/tribus/java/](http://blog.zenika.com/category/tribus/java/)*
 
+*[https://www.scaler.com/topics/java/](https://www.scaler.com/topics/java/)
+
 *欢迎补充*
 
 
